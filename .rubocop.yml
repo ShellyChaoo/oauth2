@@ -1,0 +1,8 @@
+---
+AllCops:
+  TargetRubyVersion: 3.0
+  
+Metrics/BlockLength:
+  Enabled: true
+  Exclude:
+    - app.rb
